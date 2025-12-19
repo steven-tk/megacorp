@@ -1,1 +1,2 @@
 partner list
+C: update customers and partners
