@@ -1,4 +1,4 @@
 partner list
 C: update customers and partners
-Boot.dev
+SalesInc
 TheStartup
